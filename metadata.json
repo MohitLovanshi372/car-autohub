@@ -1,0 +1,6 @@
+{
+  "name": "AUTOHUB",
+  "description": "Drive Beyond Ordinary — Premium 3D Automotive Experience and Showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
